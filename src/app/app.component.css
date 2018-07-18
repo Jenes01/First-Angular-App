@@ -1,0 +1,37 @@
+body {
+    background-color: aquamarine;
+  }
+  
+  #header {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  #header img {
+    max-width: 300px;
+    border: 1px solid black;
+    box-shadow: 2px 5px 2px rgb(166, 166, 166);
+  }
+  #city {
+    text-align: center;
+    color: blue;
+    border-style: ridge;
+    border-color: white;
+  }
+  #tag {
+    text-align: center;
+    color: orange;
+    font-style: italic;
+    font-size: 50px;
+  }
+  #me {
+    color: blue;
+  }
+  app-skills {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  app-contact {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: orange;
+  }
